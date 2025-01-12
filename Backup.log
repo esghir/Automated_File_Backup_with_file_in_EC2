@@ -1,0 +1,6 @@
+upload: ../../tmp/backup_2025-01-12813-53-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-53-01.tar.gz
+upload: ../../tmp/backup_2025-01-12813-54-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-54-01.tar.gz
+upload: ../../tmp/backup_2025-01-12813-55-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-55-01.tar.gz
+upload: ../../tmp/backup_2025-01-12813-56-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-56-01.tar.gz
+upload: ../../tmp/backup_2025-01-12813-57-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-57-01.tar.gz
+upload: ../../tmp/backup_2025-01-12813-58-01.tar.gz to s3://s3ec2backups/buckup_folder/backup_2025-01-12813-58-01.tar.gz
